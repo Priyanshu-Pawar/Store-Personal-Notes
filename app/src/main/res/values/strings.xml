@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Room Database</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login_page">Login page</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="main_screen">Notes App</string>
+
+
+    <string name="enter_name">Title</string>
+    <string name="age">Age</string>
+    <string name="submit">Submit</string>
+    <string name="delete_btn">Delete</string>
+    <string name="last_name">Notes</string>
+    <string name="update">Update</string>
+    <string name="please_add_your_first_name_here">Title</string>
+    <string name="please_add_your_last_name_here">Notes</string>
+    <string name="please_add_your_age_here">Please add your age here</string>
+    <string name="user_notes">User Notes</string>
+</resources>
